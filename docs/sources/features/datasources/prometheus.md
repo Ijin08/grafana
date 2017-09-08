@@ -39,7 +39,7 @@ Name | Description
 
 Open a graph in edit mode by click the title > Edit (or by pressing `e` key while hovering over panel).
 
-![](/img/docs/v43/prometheus_query_editor.png)
+![](/img/docs/v45/prometheus_query_editor.png)
 
 Name | Description
 ------- | --------
